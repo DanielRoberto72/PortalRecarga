@@ -1,6 +1,6 @@
 # 🔭 Portal de recarga
 
-Página WEB em php e html desenvolvida para uma empresa de telecomunicações para realizar recargas de uma empresa parceira.<br>
+Página WEB em PHP e HTML desenvolvida para uma empresa de telecomunicações para realizar recargas de uma empresa parceira.<br>
 OBS: Para integridade dos dados da empresa, user e passwords foram retirados.
 
 # 💻 Tecnologias utilizadas
@@ -13,7 +13,5 @@ OBS: Para integridade dos dados da empresa, user e passwords foram retirados.
 # 🛠️ Funcionalidades
 <li> Permite a rastreabilidade de recargas.</li>
 <li> Página para realizar recarga de forma simples.</li>
-
-# 🛠️ Próximas Funcionalidades
 <li> Integração com banco de dados para registro de logs de recarga.</li>
 <li> Cenralização de acessos e controle de números possibilitados a fazer recarga por meio de uma Whitelist.</li>
